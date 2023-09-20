@@ -7,6 +7,7 @@ Deyvis Dalman,
 Faraz Khan​,
 Utsav Agrawal.
 
+
 **Introduction**
 Bike sharing programs provide an affordable shared transportation service where bicycles are available for use by individuals for short-distance trips in urban areas, as an alternative to private vehicles. These programs operate similarly to public transit systems, with multiple bike check-out stations catering to both tourists and locals. The aim is to reduce traffic, noise, and air pollution in cities. Bike-share systems offer a sustainable solution for individuals who may have concerns about theft, vandalism, parking, storage, or maintenance of their own bicycles. There are currently over 500 bike-sharing programs worldwide, consisting of more than 500,000 bicycles. These systems generate large amounts of data, making them attractive for research in traffic, environmental, and health issues. The duration of travel, departure and arrival positions are explicitly recorded in these systems, creating a virtual sensor network that can be used to sense mobility in cities. This feature transforms bike sharing systems into virtual sensor networks that can be used to monitor mobility in the city.
 
